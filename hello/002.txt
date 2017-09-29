@@ -1,1 +1,2 @@
 a file in the folder
+just for a new line
