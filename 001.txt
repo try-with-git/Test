@@ -3,8 +3,6 @@ add a line
 add a new line
 add a new line from github
 add new line from mac
-<<<<<<< HEAD
 here is on mac
-=======
 now it's on github
 >>>>>>> 9903925a3050476e02fbd22f3511c27550ecc382
