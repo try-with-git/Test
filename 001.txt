@@ -4,6 +4,7 @@ add a line
 add a new line from github
 add new line from mac
 here is on mac
+fix a bug
 now it's on github
 branch 001 edit new lineb
 
